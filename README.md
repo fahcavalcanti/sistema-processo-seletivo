@@ -1,4 +1,4 @@
-# Projeto de Processo Seletivo de Candidatos
+# Projeto de Processo Seletivo de Candidatos - DIO
 
 Este é um projeto Java que simula um processo seletivo de candidatos. Ele inclui várias funções que demonstram diferentes aspectos de um processo de seleção, como entrar em contato com candidatos, imprimir a lista de candidatos e selecionar candidatos com base em critérios de salário.
 Apresentado para o módulo de Dominando a Linguagem de Programação Java no Santander Bootcamp 2023 - Fullstack Java+Angular ministrado pela DIO - Digital Innovation One.
